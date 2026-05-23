@@ -1,4 +1,0 @@
-repository "Darklane TD/Darklane TD@18967181569611@cloud"
-  path "/"
-    br "/main"
-    co "/main"
